@@ -1,4 +1,3 @@
-
 with open('1.txt', 'r', encoding = 'utf-8') as f1, open('2.txt', 'r', encoding = 'utf-8') as f2, open('3.txt', 'r', encoding = 'utf-8') as f3, open('4.txt', 'w', encoding = 'utf-8') as f4:
     lines_amount = {}
     file_content = {}
